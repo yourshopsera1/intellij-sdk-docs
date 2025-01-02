@@ -10,7 +10,7 @@
 
 </tldr>
 
-![](01_Radio Button.png){width=706}
+![Radio Button](01_Radio Button.png){width=706}
 
 ## When to use
 
@@ -27,10 +27,10 @@ For only two opposing yes/no options, use a checkbox instead.
 <table style="none" border="false">
   <tr>
     <td width="50%">
-      <format color="Green" style="bold">Correct</format><img src="02_When_to_use_correct.png" alt="A correct example of using a checkbox instead of radiobuttons"/>
+      <format color="Green" style="bold">Correct</format><img src="02_When_to_use_correct.png" alt="A correct example of using a checkbox instead of radio buttons"/>
     </td>
     <td width="50%">
-      <format color="Red" style="bold">Incorrect</format><img src="02_When_to_use_incorrect.png" alt="An incorrect example of using radiobuttons instead of a checkbox"/>
+      <format color="Red" style="bold">Incorrect</format><img src="02_When_to_use_incorrect.png" alt="An incorrect example of using radio buttons instead of a checkbox"/>
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ For only two opposing yes/no options, use a checkbox instead.
 ### 5 and more options
 If the options have short labels, use a segmented button. Or, if the options can be represented on an axis, such as a time delay, use a slider instead.
 
-![](03_When_to_use_Segmented_button.png){width=706}
+![Segmented button](03_When_to_use_Segmented_button.png){width=706}
 
 For other cases with 5 or more options use a [drop-down list](drop_down.md):
 
@@ -59,7 +59,7 @@ Consider using a [drop-down list](drop_down.md) if:
 * The option might be used less often than other options on the screen.
 * There are other drop-down lists in the same group of UI components. A radio button group is more noticeable than a drop-down list, so it will look like a more important setting.
 * There is a combination of several UI components for one setting:
-  ![](05_When_to_use_Segmented_button.png){width=706}
+  ![Combination of several UI components](05_When_to_use_combination_UI_components.png){width=706}
   *The automatic updates setting consists of a checkbox, three lengthy-labeled options in a dropdown and a button.*
 
 ## How to use
@@ -72,7 +72,7 @@ Consider using a [drop-down list](drop_down.md) if:
       <td><p>A label accompanies each checkbox and is placed next to it.</p></td>
     </tr>
     <tr>
-      <td><img src="07_How_to_use.png" alt="An example of a label spanning two lines." width="378"/></td>
+      <td><img src="07_How_to_use.png" alt="An example of a label spanning two lines" width="378"/></td>
       <td><p>If a label is long, split it into two lines. Avoid labels that take more than two lines. See recommendations on writing concise labels below.</p></td>
     </tr>
 </table>
@@ -122,7 +122,7 @@ Make labels short and intelligible — see [Writing short and clear text](writin
 
 ### Group label
 
-![](09_How_to_use.png){width=706}
+![An example of a group label](09_How_to_use.png){width=706}
 
 Always start a radio button group with a group label. It explains what the options are for.
 
